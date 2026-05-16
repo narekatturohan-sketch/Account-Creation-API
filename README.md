@@ -1,15 +1,15 @@
-# CDSL Harmonized Middleware Platform
+# Harmonized Middleware Platform
 
-Enterprise-grade middleware platform for SEBI Harmonized APIs using Django REST Framework, Python 3.14, and Oracle 23c.
+Enterprise-grade middleware platform for Harmonized APIs using Django REST Framework, Python 3.14, and Oracle 23c.
 
 ---
 
 # Overview
 
-The **CDSL Harmonized Middleware Platform** is designed to act as a translation and orchestration layer between:
+The **Harmonized Middleware Platform** is designed to act as a translation and orchestration layer between:
 
-- Frontend/API consumers using SEBI harmonized specifications
-- Existing legacy CDSL backend systems
+- Frontend/API consumers using harmonized specifications
+- Existing legacy backend systems
 
 The platform dynamically transforms harmonized API payloads into backend-compatible formats, executes business logic using Python and Oracle PL/SQL, and returns standardized API responses.
 
@@ -435,7 +435,7 @@ python manage.py runserver
 
 - Depository middleware systems
 - Financial API gateways
-- SEBI harmonized API processing
+- Harmonized API processing
 - Legacy backend modernization
 - Oracle-backed enterprise systems
 - BFSI middleware architecture
@@ -473,8 +473,8 @@ python manage.py runserver
 # Author
 
 Enterprise Middleware Platform for:
-- SEBI Harmonized APIs
-- CDSL Backend Integration
+- Harmonized APIs
+- Backend Integration
 - Oracle-based BFSI Systems
 
 Built using:
